@@ -1,0 +1,51 @@
+Ex 7.1: 
+
+Enter the number of students: 10
+Enter 10 scores: 49 82 50 28 59 27 49 69 27 49
+Student 0 score is 49 and grade is D
+Student 1 score is 82 and grade is A
+Student 2 score is 50 and grade is D
+Student 3 score is 28 and grade is F
+Student 4 score is 59 and grade is C
+Student 5 score is 27 and grade is F
+Student 6 score is 49 and grade is D
+Student 7 score is 69 and grade is B
+Student 8 score is 27 and grade is F
+Student 9 score is 49 and grade is D
+
+Ex 7.7: 
+
+The count for 0 is 16
+The count for 1 is 7
+The count for 2 is 14
+The count for 3 is 13
+The count for 4 is 13
+The count for 5 is 7
+The count for 6 is 6
+The count for 7 is 3
+The count for 8 is 8
+The count for 9 is 13
+
+Ex 7.15: 
+
+Enter ten numbers: 1 7 2 9 3 4 2 1 7 4
+The distinct numbers are: 1 7 2 9 3 4
+
+Ex 7.19: 	*see code (question ask to mae the function that does 
+			   that not that it has to print out something specific)
+
+Test Data 1 is sorted
+Test Data 2 is not sorted
+
+Ex 7.30: 
+
+Enter the number of values: 10
+Enter the values: 
+5 2 4 3 6 2 2 2 2 5
+The list has consecutive fours
+
+Ex 7.31: 
+
+Enter list1: 5 1 5 16 61 111
+Enter list2: 4 2 4 5 6
+The merged list is 1 2 4 5 5 6 16 61 
