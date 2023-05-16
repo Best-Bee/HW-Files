@@ -1,0 +1,35 @@
+Ex:4.11
+
+Enter a decimal value (0 to 15): 14
+
+The hex value is E
+
+Ex:4.12
+
+Enter a hex digit: e
+The binary value is 1110
+
+Ex:4.21
+
+Enter a SSN: 284-28-5932
+284-28-5932 is a valid social security number
+
+Ex:4.22
+
+Enter string s1: oasjhfvshdkf
+Enter string s2: fvsh
+fvsh is a substring of oasjhfvshdkf
+
+Ex:4.24
+
+Enter the first city: Atlanta
+Enter the second city: Los Angeles
+Enter the third city: Chicago
+The three cities in alphabetical order are Atlanta Chicago Los Angeles
+
+****extra run (testing duplicates and case)
+
+Enter the first city: aAa
+Enter the second city: aAa
+Enter the third city: BbB
+The three cities in alphabetical order are aAa aAa BbB
