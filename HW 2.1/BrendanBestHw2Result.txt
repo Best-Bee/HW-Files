@@ -1,0 +1,31 @@
+Ex2_7:
+
+Enter the number of minutes: 1000000000
+1000000000 minutes is approximately 1902 years and 214 days.
+
+Ex2_12:
+
+Enter speed and acceleration: 60 3.5
+The minimum runway length for this airplane is: 514.2857142857143
+
+Ex2_14:
+
+Enter weight in pounds: 95.5
+Enter height in inches: 50
+BMI is: 26.857257942215885
+
+Ex2_18:
+
+  a		  b	       Middle Point
+(0, 0)		(2, 1)		(1.0, 0.5)
+(1, 4)		(4, 2)		(2.5, 3.0)
+(2, 7)		(6, 3)		(4.0, 5.0)
+(3, 9)		(10, 5)		(6.5, 7.0)
+(4, 11)		(12, 7)		(8.0, 9.0)
+
+Ex2_23:
+
+Enter the driving distance: 900.5
+Enter miles per gallon: 25.5
+Enter price per gallon: 3.55
+The cost of driving is: $125.36372549019607
