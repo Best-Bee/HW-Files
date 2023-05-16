@@ -1,0 +1,48 @@
+Ex3.4:
+
+Run1 -
+February
+
+Run2 -
+November
+
+Run3 -
+March
+
+Ex3.11:
+Enter the number of a month: 
+2
+
+Enter the number of a year: 
+1992
+
+February, 1992 has 29 days
+
+Ex3.12:
+Enter a 3 digit number: 
+10
+Error 001: Number not a number between 100 and 999
+Enter a 3 digit number: 
+1000
+Error 001: Number not a number between 100 and 999
+Enter a 3 digit number: 
+202
+202 is a palindrome
+
+Ex3.17:
+scissor (0), rock (1), paper (2): 
+2
+The computer is scissor. You are paper. You lose.
+
+Ex3.22:
+Enter a point with two coordinates: 
+-5.4
+3.2
+Point (-5.4, 3.2) is in the circle 
+
+Ex3.33:
+Enter weight and price for package 1: 
+12 15.99
+Enter weight and price for package 2: 
+24 29.99
+Package 2 has a better price
